@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Honorine GNONFIN
 - 👀 I’m interested in mathematicals methods useful in phycicals sciences
 - 🌱 I’m currently learning at AIMS Senegal option regular
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on quantum mecanic
 - 📫 How to reach me ...
 
 <!---
