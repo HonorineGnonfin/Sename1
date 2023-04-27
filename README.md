@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Honorine GNONFIN
 - 👀 I’m interested in Quantum information
-- 🌱 I’m currently learning Entanglement phenomenon
+- 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m looking to collaborate on Quantum Computation
 - 📫 How to reach me honorine.gnonfin@aims-senegal.org or gnonfinhonorine@gmail.com
 
